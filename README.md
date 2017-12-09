@@ -1,3 +1,3 @@
 # bootcamp
-x= print('hell world')
+x= print('hell0 world')
 
